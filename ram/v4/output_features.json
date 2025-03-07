@@ -1,0 +1,9 @@
+{ 
+    "features": [
+        "age",
+        "blacklisted_state",
+        "blacklisted_profession",
+        "declared_affordability",
+        "declared_emi_amount"
+    ]
+}
